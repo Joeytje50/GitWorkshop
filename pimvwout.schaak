@@ -3,9 +3,9 @@ P P P P N P P
     N         P
                
         q      
-        p      
+    n   p      
 p p p     p p p
-r n     k b n r
+r       k b n r
 
 1. e4    d5
 2. exd5  Qxd5
@@ -13,4 +13,5 @@ r n     k b n r
 4. Be2   Bg4
 5. a3    Be2
 6. Nxe2  e6
-7. O-O   
+7. O-O   Nf6
+
